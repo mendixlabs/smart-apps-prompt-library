@@ -43,7 +43,7 @@ This prompt is designed to create a smart, predictive conversational assistant t
 
 ## Reference
 
-This prompt will be part of the [Support Assistant Starter App](https://marketplace.mendix.com/link/component/231035). You can find the full prompt [here](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/examples/support_assistant).
+This prompt will be part of the [Support Assistant Starter App](https://marketplace.mendix.com/link/component/231035). You can find the full prompt [here](https://github.com/mendixlabs/smart-apps-prompt-library/tree/main/examples/predictive-conversational-assistant).
 
 
 ## System Prompt

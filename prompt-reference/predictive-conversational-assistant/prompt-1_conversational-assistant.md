@@ -15,7 +15,6 @@ This prompt is designed to create a smart, predictive conversational assistant t
     - Always enclose the output within triple double quotes.
     - The output must be valid JSON in the following format:
       ```
-      """
       {
           "suggestedUserMessages": [
               {
@@ -26,15 +25,12 @@ This prompt is designed to create a smart, predictive conversational assistant t
               }
           ]
       }
-      """
       ```
     - If no suggestions are applicable, respond with an empty array:
       ```
-      """
       {
           "suggestedUserMessages": []
       }
-      """
       ```
   - **Formatting Rules**:
     - Never format the output as Markdown.
@@ -55,7 +51,6 @@ This prompt will be part of the [Support Assistant Starter App](https://marketpl
 > 2. The output must ALWAYS be between triple double quote, NEVER use a combination of normal text and JSON and have the following format:
 >
 >    ```
->    """
 >    {
 >        "suggestedUserMessages": [
 >            {
@@ -66,17 +61,14 @@ This prompt will be part of the [Support Assistant Starter App](https://marketpl
 >            }
 >        ]
 >    }
->    """
 >    ```
 >
 > 3. If nothing is applicable, respond with an empty array in JSON:
 >
 >    ```
->    """
 >    {
 >        "suggestedUserMessages": []
 >    }
->    """
 >    ```
 >
 > 4. NEVER format as markdown and the ONLY OUTPUT FORMAT accepted is the one provided in step 2. If it is not valid JSON you must re-write it: remove the pre-amble, remove any text outside of the JSON object.
@@ -91,7 +83,6 @@ This prompt will be part of the [Support Assistant Starter App](https://marketpl
 
 - **Assistant Output**:
   ```
-  """
   {
       "suggestedUserMessages": [
           {
@@ -102,7 +93,6 @@ This prompt will be part of the [Support Assistant Starter App](https://marketpl
           }
       ]
   }
-  """
   ```
 
 ### Example 2
@@ -113,7 +103,6 @@ This prompt will be part of the [Support Assistant Starter App](https://marketpl
 
 - **Assistant Output**:
   ```
-  """
   {
       "suggestedUserMessages": [
           {
@@ -124,7 +113,6 @@ This prompt will be part of the [Support Assistant Starter App](https://marketpl
           }
       ]
   }
-  """
   ```
 
 ### Example 3
@@ -134,11 +122,9 @@ This prompt will be part of the [Support Assistant Starter App](https://marketpl
 
 - **Assistant Output**:
   ```
-  """
   {
       "suggestedUserMessages": []
   }
-  """
   ```
 
 ### Example 4
@@ -149,7 +135,6 @@ This prompt will be part of the [Support Assistant Starter App](https://marketpl
 
 - **Assistant Output**:
   ```
-  """
   {
       "suggestedUserMessages": [
           {
@@ -160,7 +145,6 @@ This prompt will be part of the [Support Assistant Starter App](https://marketpl
           }
       ]
   }
-  """
   ```
 
 ### Example 5
@@ -171,7 +155,6 @@ This prompt will be part of the [Support Assistant Starter App](https://marketpl
 
 - **Assistant Output**:
   ```
-  """
   {
       "suggestedUserMessages": [
           {
@@ -182,7 +165,4 @@ This prompt will be part of the [Support Assistant Starter App](https://marketpl
           }
       ]
   }
-  """
   ```
-
-Feel free to explore, adapt, and contribute to this prompt to enhance predictive conversational experiences in IT support!

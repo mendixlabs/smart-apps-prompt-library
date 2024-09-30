@@ -12,7 +12,9 @@ An assistant with expertise in IT helpdesk tickets, designed to generate potenti
 
 ## Reference
 
-You can find the prompt [here]().
+You can find the prompt [here](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/examples/embeddings/example-3_semantic-search.md).
+
+This prompt is part of the [GenAI Showcase App](https://marketplace.mendix.com/link/component/220475).
 
 ## System Prompt
 

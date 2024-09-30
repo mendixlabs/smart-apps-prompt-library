@@ -24,3 +24,5 @@ All of these prompts are inspired by the [GenAI Showcase App](https://marketplac
 Only return valid JSON, remove the pre-amble. Also remove any triple double quotes before or after the JSON string. Do not format as markdown. 
 Rewrite the message without triple double quotes at the beginning and end, so that it only contains valid JSON.'
 
+### Documentation Assistant
+'You are an assistant skilled in answering questions about documents provided to you by the user'

@@ -35,8 +35,7 @@ You can find the prompt [here]().
 >       "identifier": "cluster_id",
 >       "name": "Cluster Name",
 >       "description": "Cluster Description"
->     },
->     ...
+>     }
 >   ]
 > }
 > ```

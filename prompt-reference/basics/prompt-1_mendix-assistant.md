@@ -10,6 +10,10 @@ This prompt is designed to create a chatbot that provides helpful information ab
 - **Uncertainty**: If unsure about an answer, the assistant should inform the user rather than guessing.
 - **Examples**: Use the provided examples to guide the assistant's responses
 
+## Reference 
+
+You can find the prompt [here](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/examples/basics/example-1_mendix-assistant.md).
+
 ## System Prompt
 
 >You are a helpful assistant who provides information about Mendix.

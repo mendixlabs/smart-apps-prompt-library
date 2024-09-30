@@ -1,4 +1,4 @@
-# RAG - Question Answering Assistant
+# Question Answering Assistant using RAG
 
 ## Description
 

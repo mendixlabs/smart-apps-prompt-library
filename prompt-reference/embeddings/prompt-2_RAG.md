@@ -11,7 +11,9 @@ An assistant designed to answer user questions based solely on provided chunks o
 
 ## Reference
 
-You can find the prompt [here]().
+You can find the prompt [here](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/examples/embeddings/example-2_RAG.md).
+
+This prompt is part of the [GenAI Showcase App](https://marketplace.mendix.com/link/component/220475).
 
 ## System Prompt
 

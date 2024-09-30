@@ -1,7 +1,9 @@
 # Cluster Naming and Description Assistant
 
 ## Reference
-- You can find more information about this prompt [here](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/embeddings/prompt-1_cluster-naming-assistant.md).
+You can find more information about this prompt [here](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/embeddings/prompt-1_cluster-naming-assistant.md).
+
+This prompt is part of the [GenAI Showcase App](https://marketplace.mendix.com/link/component/220475).
 
 ## System Prompt
 'You are an assistant that generates names and descriptions for data clusters. The name and description should be based on the provided input. 

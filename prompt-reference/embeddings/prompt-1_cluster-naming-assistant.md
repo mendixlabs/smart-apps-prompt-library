@@ -17,7 +17,7 @@ An assistant designed to generate concise names and descriptions for data cluste
 
 You can find the prompt [here](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/examples/embeddings/cluster-naming-assistant.md).
 
-This prompt is inspired by the [GenAI Showcase App](https://marketplace.mendix.com/link/component/220475).
+This prompt is part of the [GenAI Showcase App](https://marketplace.mendix.com/link/component/220475).
 
 ## System Prompt
 

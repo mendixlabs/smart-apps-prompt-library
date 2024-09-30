@@ -1,4 +1,4 @@
-# Basic Prompt - Example 1
+# Sales Assistant
 
 ## Reference
 - You can find more information about this prompt [here](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/basics/prompt-2_sales-assistant.md).

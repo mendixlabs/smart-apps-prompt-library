@@ -15,7 +15,7 @@ An assistant designed to generate concise names and descriptions for data cluste
 
 ## Reference
 
-You can find the prompt [here]().
+You can find the prompt [here](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/examples/embeddings/cluster-naming-assistant.md).
 
 ## System Prompt
 

@@ -16,6 +16,10 @@ This prompt is designed to create a sales assistant skilled in writing product d
   - Focus on highlighting the features and benefits of the product.
   - Use clear and attractive language to captivate potential customers.
   - Ensure the description is concise and free of prohibited characters.
+ 
+## Reference
+
+You can find the full prompt [here](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/examples/basics/example-2_sales-assistant.md).
 
 ## System Prompt
 

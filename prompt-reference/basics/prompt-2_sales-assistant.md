@@ -19,7 +19,7 @@ This prompt is designed to create a sales assistant skilled in writing product d
  
 ## Reference
 
-You can find the full prompt [here](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/examples/basics/example-2_sales-assistant.md).
+You can find the prompt [here](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/examples/basics/example-2_sales-assistant.md).
 
 ## System Prompt
 

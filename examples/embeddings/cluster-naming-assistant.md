@@ -14,14 +14,13 @@ Use the following structure:
 
 ### ClusterJsonTemplate
 ```json
-> {
->   "clusters": [
->     {
->       "identifier": "cluster_id",
->       "name": "Cluster Name",
->       "description": "Cluster Description"
->     }
->   ]
-> }
-> ```
-> The name should not be more than three words. The description should not be more than 30 words.
+{
+  "clusters": [
+    {
+      "identifier": "cluster_id",
+      "name": "Cluster Name",
+      "description": "Cluster Description"
+    }
+  ]
+}
+```

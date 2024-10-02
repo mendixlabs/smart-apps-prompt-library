@@ -1,7 +1,7 @@
 # Basic Prompt - Example 1
 
 ## Reference
-- You can find more information about this prompt [here](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/examples/function-calling-and-RAG/support_assistant.md).
+- You can find more information about this prompt [here](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/basics/prompt-1_mendix-assistant.md).
 
 ## System Prompt
 'You are a helpful assistant who provides information about Mendix.

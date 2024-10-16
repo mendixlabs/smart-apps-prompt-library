@@ -6,7 +6,7 @@ You can find the prompts, a description, scope and explaination of the prompt in
 
 ### complexity-reduction
 - Aimed at simplifying complex topics and generating summaries.
-  - [prompt-1_simplification-assistant.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/complexity-reduction/prompt-1_simplification-assistant.md)
+  - [prompt-1_simplification-assistant.md]((./prompt-reference/complexity-reduction/prompt-1_simplification-assistant.md)
   - [prompt-2_meeting-transcript-assistant.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/complexity-reduction/prompt-2_meeting-transcript-assistant.md)
  
 ### conversational-assistants

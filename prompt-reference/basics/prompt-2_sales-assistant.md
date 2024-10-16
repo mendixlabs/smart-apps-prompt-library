@@ -36,4 +36,5 @@ In this example, the user prompt is added through the variables. Afterwards, it 
 
 
 - **Assistant Output**:
+  
  Sit back and relax in our Office chair - the superhero of seating! This comfy, high-quality throne is ergonomically designed to save your back while looking oh-so-stylish. Its modern flair and eco-friendly materials make it the coolest kid in the office!

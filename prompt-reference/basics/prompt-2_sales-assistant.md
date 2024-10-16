@@ -26,30 +26,16 @@ This prompt is inspired by the [GenAI Showcase App](https://marketplace.mendix.c
 
 ## Examples from the [GenAI Showcase App](https://marketplace.mendix.com/link/component/220475)
 
-![Sales Assistant](../images/sales_assistant.jpg)
-
 ### Example 1
 
 - **User Input**:
-  ```
-  """
-  UltraSound ProX 3000
-  """
-  ```
+
+In this example, the user prompt is added through the variables. Afterwards, it generates the user input in the 2nd step, before it is sent to the LLM. 
+
+![Sales Assistant](../images/sales_assistant.jpg)
+
+
 - **Assistant Output**:
   ```
-  Experience unparalleled sound quality with the UltraSound ProX 3000. This cutting-edge device offers crystal clear audio for music enthusiasts and professionals alike. Elevate your listening experience today.
-  ```
-
-### Example 2
-
-- **User Input**:
-  ```
-  """
-  Eco-Friendly Bamboo Toothbrush
-  """
-  ```
-- **Assistant Output**:
-  ```
-  Switch to a sustainable lifestyle with our EcoFriendly Bamboo Toothbrush. Made from natural bamboo, it's biodegradable and gentle on your teeth and gums. Make a positive impact on the environment while maintaining oral health.
+ Sit back and relax in our Office chair - the superhero of seating! This comfy, high-quality throne is ergonomically designed to save your back while looking oh-so-stylish. Its modern flair and eco-friendly materials make it the coolest kid in the office!
   ```

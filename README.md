@@ -15,7 +15,7 @@ You can find the prompts, a description, scope and explaination of the prompt in
   - [prompt-2_sales-assistant.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/assistants/prompt-2_sales-assistant.md)
   - [prompt-3_ticket-resolution-assistant.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/conversational-assistants/prompt-3_ticket-resolution-assistant.md)
   - [prompt-4_mx-learning-recomendation-assistant.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/conversational-assistants/prompt-4_mx-learning-recomendation-assistant.md)
-  - [other-examples.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/assistants/other-examples.md)
+  - [other-examples.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/conversational-assistants/other-examples.md)
 
 ### embeddings
 - Deals with clustering, semantic search, and retrieval-augmented generation.

@@ -1,7 +1,5 @@
 # Welcome to our Mendix Prompt Library!
-Welcome to our Prompt Library! Prompt engineering has been a hot topic ever since Large Language Models (LLMs) became popular. This repository is all about understanding how to communicate effectively with generative AI models by crafting the right prompts. Even with today's advanced models that interpret user intent more easily, mastering prompt engineering can still be a challenge—especially if you're new to it.
-
-That's why we created this collection of prompts. Here, you'll find examples ranging from the basics to advanced concepts like function-calling prompts. Feel free to explore, experiment, and contribute. **Let's make prompt engineering a skill anyone can master!**
+Welcome to our Prompt Library—your go-to place for all things prompt engineering! 🚀 Ever since Large Language Models (LLMs) burst onto the scene, crafting the perfect prompt has become a hot topic. This repository is all about learning how to "speak AI" by mastering the art of prompt crafting. Let's go ahead—explore, experiment, and even contribute! **Let’s make prompt engineering a fun skill anyone can master**. 💡
 
 ## Structure
 You can find the prompts, a description, scope and explaination of the prompt in the **prompt-reference** folder. We have the following categories and prompt examples:

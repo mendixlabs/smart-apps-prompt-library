@@ -6,7 +6,7 @@ That's why we created this collection of prompts. Here, you'll find examples ran
 ## Structure
 You can find the prompts, a description, scope and explaination of the prompt in the **prompt-reference** folder. We have the following categories and prompt examples:
 
-### assistants
+### conversational-assistants
 - Focuses on basic conversational UI prompts.
   - [prompt-1_mendix-assistant.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/assistants/prompt-1_mendix-assistant.md)
   - [prompt-2_sales-assistant.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/assistants/prompt-2_sales-assistant.md)

@@ -62,7 +62,7 @@ Rewrite the message without triple double quotes at the beginning and end, so th
 
 An example of the user prompt and the assitant output can be found below. The JSON format allows the LLM to adapt the output to the app's requirement. 
 
-![Assistant with Advanced Settings](../images/basic_assistant_with_advanced_settings.jpg)
+![Assistant with Advanced Settings](../0-images/basic_assistant_with_advanced_settings.jpg)
 
 ### Example 4
 

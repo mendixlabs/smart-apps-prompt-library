@@ -32,7 +32,7 @@ This prompt is inspired by the [GenAI Showcase App](https://marketplace.mendix.c
 
 In this example, the user prompt is added through the variables. Afterwards, it generates the user input in the 2nd step, before it is sent to the LLM. 
 
-![Sales Assistant](../images/sales_assistant.jpg)
+![Sales Assistant](../0-images/sales_assistant.jpg)
 
 
 - **Assistant Output**:

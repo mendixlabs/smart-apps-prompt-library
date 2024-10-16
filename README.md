@@ -6,16 +6,16 @@ That's why we created this collection of prompts. Here, you'll find examples ran
 ## Structure
 You can find the prompts, a description, scope and explaination of the prompt in the **prompt-reference** folder. We have the following categories and prompt examples:
 
+### complexity-reduction
+- Aimed at simplifying complex topics and generating summaries.
+  - [prompt-1_simplification-assistant.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/complexity-reduction/prompt-1_simplification-assistant.md)
+  - [prompt-2_meeting-transcript-assistant.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/complexity-reduction/prompt-2_meeting-transcript-assistant.md)
+ 
 ### conversational-assistants
 - Focuses on basic conversational UI prompts.
   - [prompt-1_mendix-assistant.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/assistants/prompt-1_mendix-assistant.md)
   - [prompt-2_sales-assistant.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/assistants/prompt-2_sales-assistant.md)
   - [other-examples.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/assistants/other-examples.md)
-
-### complexity-reduction
-- Aimed at simplifying complex topics and generating summaries.
-  - [prompt-1_simplification-assistant.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/complexity-reduction/prompt-1_simplification-assistant.md)
-  - [prompt-2_meeting-transcript-assistant.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/complexity-reduction/prompt-2_meeting-transcript-assistant.md)
 
 ### embeddings
 - Deals with clustering, semantic search, and retrieval-augmented generation.

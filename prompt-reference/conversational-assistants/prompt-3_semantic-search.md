@@ -2,7 +2,7 @@
 
 ## Description
 
-An assistant with expertise in IT helpdesk tickets, designed to generate potential resolutions for new tickets based solely on previously resolved similar tickets. It enhances support efficiency by providing relevant solutions and translating responses when necessary to match the user's language.
+An assistant with expertise in IT helpdesk tickets, designed to generate potential resolutions for new tickets based solely on previously resolved similar tickets. It enhances support efficiency by providing relevant solutions and translating responses when necessary to match the user's language. In the GenAI Showcase, this use case uses **embeddings**. 
 
 ## Usage Instructions
 

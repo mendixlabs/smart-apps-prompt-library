@@ -26,7 +26,7 @@ This prompt is inspired by the [GenAI Showcase App](https://marketplace.mendix.c
 
 ## Examples from the [GenAI Showcase App](https://marketplace.mendix.com/link/component/220475)
 
-![Alt Text](prompt-reference/images/sales_assistant.jpg)
+![Sales Assistant](../images/sales_assistant.jpg)
 
 ### Example 1
 

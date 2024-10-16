@@ -26,6 +26,8 @@ This prompt is inspired by the [GenAI Showcase App](https://marketplace.mendix.c
 
 ## Examples from the [GenAI Showcase App](https://marketplace.mendix.com/link/component/220475)
 
+![Alt Text](https://github.com/mendixlabs/smart-apps-prompt-library/issues/1#issue-2591361359)
+
 ### Example 1
 
 - **User Input**:

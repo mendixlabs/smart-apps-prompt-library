@@ -15,7 +15,7 @@ You can find the prompts, a description, scope and explaination of the prompt in
 - Focuses on basic conversational UI prompts.
   - [prompt-1_mendix-assistant.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/assistants/prompt-1_mendix-assistant.md)
   - [prompt-2_sales-assistant.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/assistants/prompt-2_sales-assistant.md)
-  - [prompt-3_semantic-search.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/conversational-assistants/prompt-3_semantic-search.md)
+  - [prompt-3_ticket-resolution-assistant.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/conversational-assistants/prompt-3_ticket-resolution-assistant.md)
   - [other-examples.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/assistants/other-examples.md)
 
 ### embeddings

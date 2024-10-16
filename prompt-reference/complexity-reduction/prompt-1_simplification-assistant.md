@@ -19,57 +19,16 @@ This prompt is inspired by the [GenAI Showcase App](https://marketplace.mendix.c
 
 ## Examples
 
-### Example 1
+### Example 
 
-- **User Input**:
-  ```
-  """
-  Source Text: Artificial neural networks ANNs also shortened to neural networks NNs or neural nets are a branch of machine learning models that are built using principles of neuronal organization discovered by connectionism in the biological neural networks constituting animal brains.
+The input is given in a specified structure. First, the text that should be simplified is added into the field (for reference, find an image below). A few additional variables need to be added, such as the number of words or target audience. 
+This information is adjusted to the user prompt as seen in *2. Verify prompt engineering* in the image below. 
 
-  An ANN is based on a collection of connected units or nodes called artificial neurons which loosely model the neurons in a biological brain. Each connection like the synapses in a biological brain can transmit a signal to other neurons. An artificial neuron receives signals then processes them and can signal neurons connected to it. The signal at a connection is a real number and the output of each neuron is computed by some nonlinear function of the sum of its inputs. The connections are called edges. Neurons and edges typically have a weight that adjusts as learning proceeds. The weight increases or decreases the strength of the signal at a connection. Neurons may have a threshold such that a signal is sent only if the aggregate signal crosses that threshold.
+![Simplification Assistant](../0-images/complexity-reduction_genai-showcase.jpg)
 
-  Typically neurons are aggregated into layers. Different layers may perform different transformations on their inputs. Signals travel from the first layer the input layer to the last layer the output layer possibly after traversing the layers multiple times.
-
-  A network is typically called a deep neural network if it has at least 2 hidden layers.
-  Number of Sentences: 3
-  Writing Style: Simple
-  Target Audience: High School Students
-  """
-  ```
 - **Assistant Output**:
   ```
-  Artificial neural networks are machine learning models inspired by the human brain. They use connected units called neurons to process information in layers. Deep neural networks have multiple hidden layers for complex data processing.
-  ```
-
-### Example 2
-
-- **User Input**:
-  ```
-  """
-  Source Text: Artificial neural networks ANNs also shortened to neural networks NNs or neural nets are a branch of machine learning models built using principles from biological brains.
-
-  An ANN consists of connected units called artificial neurons that mimic biological neurons. They process signals and transmit them to other neurons. Neurons are connected by edges with weights that adjust during learning.
-  """
-  ```
-- **Assistant Output**:
-  ```
-  Artificial neural networks mimic how brains work using connected neurons that process and transmit signals. They adjust connections as they learn to improve processing.
-  ```
-
-### Example 3
-
-- **User Input**:
-  ```
-  """
-  Source Text: Artificial neural networks are models inspired by biological neural networks constituting animal brains.
-
-  Neurons are organized in layers, and signals pass from input to output layers. A deep neural network has at least two hidden layers.
-
-  Writing Style: Technical
-  Target Audience: University Students
-  """
-  ```
-- **Assistant Output**:
-  ```
-  Artificial neural networks are computational models inspired by biological brains, using layers of neurons to process data. Deep neural networks contain multiple hidden layers for advanced transformations.
+  Here is a 5 sentence summary of the source text:
+  
+  Artificial neural networks (ANNs) are machine learning models inspired by biological neural networks in animal brains. ANNs consist of artificial neurons that are connected and transmit signals to each other. The connections have weights that change as the network learns. The neurons are organized in layers that transform inputs into outputs. Deep neural networks have multiple hidden layers between the input and output layers.
   ```

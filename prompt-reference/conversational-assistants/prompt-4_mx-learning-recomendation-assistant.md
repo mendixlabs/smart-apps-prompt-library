@@ -1,7 +1,5 @@
 # Mendix Learning Path Recommendation Assistant
 
-- Provides recommendations based on Mendix Learning Paths and specific Mendix Academy resources.
-
 #### Description
 This prompt is designed to create an assistant that offers personalized recommendations from the Mendix Learning Paths. The assistant answers user questions by analyzing topic-specific data from Mendix Learning Paths and recommending the most relevant content. If the assistant cannot make a recommendation based on the provided data, it may search online for Mendix-related resources or inform the user that it doesn’t have enough information to proceed.
 

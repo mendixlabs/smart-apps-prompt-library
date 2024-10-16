@@ -7,25 +7,25 @@ You can find the prompts, a description, scope and explaination of the prompt in
 ### complexity-reduction
 - Aimed at simplifying complex topics and generating summaries.
   - [prompt-1_simplification-assistant.md](./prompt-reference/complexity-reduction/prompt-1_simplification-assistant.md)
-  - [prompt-2_meeting-transcript-assistant.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/complexity-reduction/prompt-2_meeting-transcript-assistant.md)
- 
-### conversational-assistants
+  - [prompt-2_meeting-transcript-assistant.md](./prompt-reference/complexity-reduction/prompt-2_meeting-transcript-assistant.md)
+
+### Conversational Assistants
 - Focuses on basic conversational UI prompts.
-  - [prompt-1_mendix-assistant.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/conversational-assistants/prompt-1_mendix-assistant.md)
-  - [prompt-2_sales-assistant.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/conversational-assistants/prompt-2_sales-assistant.md)
-  - [prompt-3_ticket-resolution-assistant.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/conversational-assistants/prompt-3_ticket-resolution-assistant.md)
-  - [prompt-4_mx-learning-recomendation-assistant.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/conversational-assistants/prompt-4_mx-learning-recomendation-assistant.md)
-  - [other-examples.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/conversational-assistants/other-examples.md)
+  - [prompt-1_mendix-assistant.md](./prompt-reference/conversational-assistants/prompt-1_mendix-assistant.md)
+  - [prompt-2_sales-assistant.md](./prompt-reference/conversational-assistants/prompt-2_sales-assistant.md)
+  - [prompt-3_ticket-resolution-assistant.md](./prompt-reference/conversational-assistants/prompt-3_ticket-resolution-assistant.md)
+  - [prompt-4_mx-learning-recomendation-assistant.md](./prompt-reference/conversational-assistants/prompt-4_mx-learning-recomendation-assistant.md)
+  - [other-examples.md](./prompt-reference/conversational-assistants/other-examples.md)
 
-### embeddings
+### Embeddings
 - Deals with clustering, semantic search, and retrieval-augmented generation.
-  - [prompt-1_cluster-naming-assistant.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/embeddings/prompt-1_cluster-naming-assistant.md)
-  - [prompt-2_RAG.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/embeddings/prompt-2_RAG.md)
+  - [prompt-1_cluster-naming-assistant.md](./prompt-reference/embeddings/prompt-1_cluster-naming-assistant.md)
+  - [prompt-2_RAG.md](./prompt-reference/embeddings/prompt-2_RAG.md)
 
-### function-calling-and-RAG
+### Function Calling and RAG
 - Focuses on using functions to assist with task automation and retrieval-augmented generation.
-  - [prompt-1_support-assistant.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/function-calling-and-RAG/prompt-1_support-assistant.md)
+  - [prompt-1_support-assistant.md](./prompt-reference/function-calling-and-RAG/prompt-1_support-assistant.md)
 
-### predictive-conversational-assistant
+### Predictive Conversational Assistant
 - Involves creating predictive conversation flows and dynamic responses.
-  - [prompt-1_conversational-assistant.md](https://github.com/mendixlabs/smart-apps-prompt-library/blob/main/prompt-reference/predictive-conversational-assistant/prompt-1_conversational-assistant.md)
+  - [prompt-1_conversational-assistant.md](./prompt-reference/predictive-conversational-assistant/prompt-1_conversational-assistant.md)

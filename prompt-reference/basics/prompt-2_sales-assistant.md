@@ -26,7 +26,7 @@ This prompt is inspired by the [GenAI Showcase App](https://marketplace.mendix.c
 
 ## Examples from the [GenAI Showcase App](https://marketplace.mendix.com/link/component/220475)
 
-### Example 1
+### Example
 
 - **User Input**:
 
@@ -36,6 +36,4 @@ In this example, the user prompt is added through the variables. Afterwards, it 
 
 
 - **Assistant Output**:
-  ```
  Sit back and relax in our Office chair - the superhero of seating! This comfy, high-quality throne is ergonomically designed to save your back while looking oh-so-stylish. Its modern flair and eco-friendly materials make it the coolest kid in the office!
-  ```

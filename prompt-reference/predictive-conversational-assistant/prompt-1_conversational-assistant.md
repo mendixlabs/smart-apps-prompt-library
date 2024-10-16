@@ -11,27 +11,7 @@ This prompt is designed to create a smart, predictive conversational assistant t
 - **Guidelines**:
   - **Context Analysis**: Always analyze the current conversation, considering the user's previous answers.
   - **Selecting Suggestions**: Choose the most appropriate suggestions from the provided list that best address the user's needs.
-  - **Output Format**:
-    - Always enclose the output within triple double quotes.
-    - The output must be valid JSON in the following format:
-      ```
-      {
-          "suggestedUserMessages": [
-              {
-                  "Identifier": "0" // example, optional
-              },
-              {
-                  "Identifier": "2" // example, optional
-              }
-          ]
-      }
-      ```
-    - If no suggestions are applicable, respond with an empty array:
-      ```
-      {
-          "suggestedUserMessages": []
-      }
-      ```
+  - **Output Format**: Always enclose the output within triple double quotes and it The must be valid JSON format.
   - **Formatting Rules**:
     - Never format the output as Markdown.
     - Do not include any text outside of the JSON object.
@@ -39,7 +19,7 @@ This prompt is designed to create a smart, predictive conversational assistant t
 
 ## Reference
 
-This prompt will be part of the [Support Assistant Starter App](https://marketplace.mendix.com/link/component/231035). You can find the full prompt [here](https://github.com/mendixlabs/smart-apps-prompt-library/tree/main/examples/predictive-conversational-assistant).
+This prompt will be part of the [Support Assistant Starter App](https://marketplace.mendix.com/link/component/231035).
 
 
 ## System Prompt

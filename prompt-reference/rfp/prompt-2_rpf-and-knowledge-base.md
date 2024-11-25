@@ -18,8 +18,6 @@ This prompt is designed to create an assistant that helps users complete a quest
 > Your answer should have a ' + getCaption($AssistantSettings/AnswerLength) + ' length. Just answer the question and remove any preamble like '``Based on the information from the knowledge base, I can answer your question:``'  
 >  
 > The tone of voice should be ' + $AssistantSettings/MyFirstRFPAssistant.AssistantSettings_ToneOfVoice/MyFirstRFPAssistant.ToneOfVoice/Name + '.  
->  
-> ' + $SystemPrompt_SynthiaClaude35 + '  
 
 
 > Return a String containing a valid JSON object on a single line with the following fields:  

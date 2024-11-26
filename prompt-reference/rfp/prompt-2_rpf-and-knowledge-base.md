@@ -73,15 +73,10 @@ This prompt is the one found in the `$AssistantInfrastructure_RegenerateAnswer_G
 > Only return a String containing a valid json object on a single line with the following fields
 > 
 > 1. "answer": The answer to the initial question of the user. Do not include a preamble, only answer the question. If you could not find an answer in the knowledge base, answer "No information found in knowledge base.".
-> 2. 
 > 3. "calledknowledgebase": true if the function was used to retrieve information from the knowledge base; false if this was not necessary based on the user request.
-> 4. 
 > 5. "foundanswerinknowledgebase": true if the knowledge base returned relevant information and you were able to answer the question; false if no relevant information was found in the knowledge base or if the knowledge base was not used.
-> 6. 
 > 7. "functionreturnederror": true if the function returned a message saying that an error occured; false if the function returned a response containing knowledge or if no function was used.
-> 8. 
 > 9. "references": A set of references that the answer was based on. Only list relevant references from the function response here. If "foundanswerinknowledgebase": false, then no references should be passed.
-> 10. 
 > 
 > Example response format:
 > 

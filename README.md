@@ -1,5 +1,5 @@
 # Welcome to our Mendix Prompt Library!
-Welcome to our Prompt Library—your go-to place for all things prompt engineering! 🚀 Ever since Large Language Models (LLMs) burst onto the scene, crafting the perfect prompt has become a hot topic. This repository is all about learning how to "speak AI" by mastering the art of prompt crafting. Let's go ahead—explore, experiment, and even contribute! **Let’s make prompt engineering a fun skill anyone can master**. 💡
+Welcome to our Prompt Library—your go-to place for prompt engineering! 🚀 Ever since Large Language Models (LLMs) burst onto the scene, crafting the perfect prompt has become a hot topic. This repository is all about learning how to "speak AI" by mastering the art of prompt crafting. Let's go ahead—explore, experiment, and even contribute! **Let’s make prompt engineering a fun skill anyone can master**. 💡
 
 ## Structure
 You can find the prompts, a description, scope and explaination of the prompt in the **prompt-reference** folder. We have the following categories and prompt examples:
@@ -15,6 +15,7 @@ You can find the prompts, a description, scope and explaination of the prompt in
   - [prompt-2_sales-assistant.md](./prompt-reference/conversational-assistants/prompt-2_sales-assistant.md)
   - [prompt-3_ticket-resolution-assistant.md](./prompt-reference/conversational-assistants/prompt-3_ticket-resolution-assistant.md)
   - [prompt-4_mx-learning-recomendation-assistant.md](./prompt-reference/conversational-assistants/prompt-4_mx-learning-recomendation-assistant.md)
+  - [prompt-5_lessons-learned-assistant.md](./prompt-reference/conversational-assistants/prompt-5_lessons-learned-assistant.md)
   - [other-examples.md](./prompt-reference/conversational-assistants/other-examples.md)
 
 ### Embeddings
